@@ -1,0 +1,51 @@
+h1{
+        font-family: "Roboto", sans-serif;
+        font-weight: 1000;
+        font-style: normal;
+        background-color: grey;
+        padding: 0px 0px;
+        border-radius: 10px 10px;
+        border: solid 3px;
+        border-color: black;
+      
+}
+
+h2{
+        font-family: "Kanit", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+      
+}
+
+h3{
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+p{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+a{
+    text-decoration-line: none;
+    color: white;
+    background-color: rgb(75, 75, 75);
+    font-weight: 600;
+    font-family: "Kanit", sans-serif;
+    border-radius: 10px;
+    padding: 7px 15px;    
+    border: solid 3px;
+    border-color: rgb(100, 94, 94);
+
+}
+
+body{
+    background: linear-gradient(rgb(200, 200, 200), rgb(105, 105, 105));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
